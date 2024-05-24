@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:h2:mem:paybank
-    username: bdev
+    username: brunno
     password:
   jpa:
     show-sql: true
